@@ -30,3 +30,17 @@ var myVar = "Hello, world!";
 - [x] Produce a CV cover letter for my job
 - [ ] Update CV to make it current and reflect my new certification
 - [ ] Start applying for roles
+
+Hello world !
+
+*Hello, *world* !*
+
+**Hello *world*!**
+
+***Hello world!***
+
+### Hello, world!
+
+\***
+
+\__.
