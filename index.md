@@ -6,3 +6,6 @@
 
 
 This was me testing header sizes by using the hashtag, 1 hashtage represents a header size.
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
